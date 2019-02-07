@@ -1,0 +1,11 @@
+{
+    "name": "WoodProcessing",
+    "version": "0.1.0",
+    "title": "Wood Processing",
+    "author": "Deve Sunstriker",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "Adds simple recipes for wood charcoaling and gasification."
+}
