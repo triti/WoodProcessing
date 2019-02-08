@@ -1,6 +1,8 @@
 local recipes =
 {
     "raw-wood-charcoal",
+    "wood-charcoal",
+    "raw-wood-charcoal-adv",
     "raw-wood-gasification"
 }
 

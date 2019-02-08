@@ -41,7 +41,7 @@ data:extend(
         },
         results =
         {
-            {type = "fluid", name = "heavy-oil", amount = 1},
+            {type = "fluid", name = "heavy-oil", amount = 5},
             {type = "item", name = "coal", amount = 10},
         },
         energy_required = 10,
